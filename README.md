@@ -7,8 +7,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Atul7-cmd/problemSolving/tree/master/0091-decode-ways) |
+| [0242-valid-anagram](https://github.com/Atul7-cmd/problemSolving/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Atul7-cmd/problemSolving/tree/master/0091-decode-ways) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Atul7-cmd/problemSolving/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Atul7-cmd/problemSolving/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
