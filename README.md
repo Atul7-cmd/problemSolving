@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Atul7-cmd/problemSolving/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Atul7-cmd/problemSolving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Atul7-cmd/problemSolving/tree/master/0242-valid-anagram) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Atul7-cmd/problemSolving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Atul7-cmd/problemSolving/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Atul7-cmd/problemSolving/tree/master/0283-move-zeroes) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atul7-cmd/problemSolving/tree/master/1004-max-consecutive-ones-iii) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Atul7-cmd/problemSolving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atul7-cmd/problemSolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Atul7-cmd/problemSolving/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Atul7-cmd/problemSolving/tree/master/0283-move-zeroes) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Atul7-cmd/problemSolving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Atul7-cmd/problemSolving/tree/master/1004-max-consecutive-ones-iii) |
+## Greedy
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Atul7-cmd/problemSolving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
