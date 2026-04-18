@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Atul7-cmd/problemSolving/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Atul7-cmd/problemSolving/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Atul7-cmd/problemSolving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Atul7-cmd/problemSolving/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -38,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Atul7-cmd/problemSolving/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Atul7-cmd/problemSolving/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
