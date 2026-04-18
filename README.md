@@ -30,8 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Atul7-cmd/problemSolving/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Atul7-cmd/problemSolving/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Atul7-cmd/problemSolving/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Atul7-cmd/problemSolving/tree/master/0032-longest-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Atul7-cmd/problemSolving/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
