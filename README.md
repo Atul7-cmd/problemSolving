@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Atul7-cmd/problemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Atul7-cmd/problemSolving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Atul7-cmd/problemSolving/tree/master/1162-as-far-from-land-as-possible) |
+| [1631-path-with-minimum-effort](https://github.com/Atul7-cmd/problemSolving/tree/master/1631-path-with-minimum-effort) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Atul7-cmd/problemSolving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Atul7-cmd/problemSolving/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Stack
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Atul7-cmd/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atul7-cmd/problemSolving/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/Atul7-cmd/problemSolving/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Atul7-cmd/problemSolving/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Atul7-cmd/problemSolving/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/Atul7-cmd/problemSolving/tree/master/0733-flood-fill) |
+| [1631-path-with-minimum-effort](https://github.com/Atul7-cmd/problemSolving/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Atul7-cmd/problemSolving/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Atul7-cmd/problemSolving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Atul7-cmd/problemSolving/tree/master/1162-as-far-from-land-as-possible) |
+| [1631-path-with-minimum-effort](https://github.com/Atul7-cmd/problemSolving/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Atul7-cmd/problemSolving/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Atul7-cmd/problemSolving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Atul7-cmd/problemSolving/tree/master/1162-as-far-from-land-as-possible) |
+| [1631-path-with-minimum-effort](https://github.com/Atul7-cmd/problemSolving/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Atul7-cmd/problemSolving/tree/master/0347-top-k-frequent-elements) |
+| [1631-path-with-minimum-effort](https://github.com/Atul7-cmd/problemSolving/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -139,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Atul7-cmd/problemSolving/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Atul7-cmd/problemSolving/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
