@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Atul7-cmd/problemSolving/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Atul7-cmd/problemSolving/tree/master/0091-decode-ways) |
 | [1162-as-far-from-land-as-possible](https://github.com/Atul7-cmd/problemSolving/tree/master/1162-as-far-from-land-as-possible) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Atul7-cmd/problemSolving/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Atul7-cmd/problemSolving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Atul7-cmd/problemSolving/tree/master/1162-as-far-from-land-as-possible) |
 | [1631-path-with-minimum-effort](https://github.com/Atul7-cmd/problemSolving/tree/master/1631-path-with-minimum-effort) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Atul7-cmd/problemSolving/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Atul7-cmd/problemSolving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Atul7-cmd/problemSolving/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Stack
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Atul7-cmd/problemSolving/tree/master/1631-path-with-minimum-effort) |
+## Graph Theory
+|  |
+| ------- |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Atul7-cmd/problemSolving/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 <!---LeetCode Topics End-->
