@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Atul7-cmd/problemSolving/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Atul7-cmd/problemSolving/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Atul7-cmd/problemSolving/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Atul7-cmd/problemSolving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Atul7-cmd/problemSolving/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Atul7-cmd/problemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Atul7-cmd/problemSolving/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Atul7-cmd/problemSolving/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Atul7-cmd/problemSolving/tree/master/0115-distinct-subsequences) |
 | [1162-as-far-from-land-as-possible](https://github.com/Atul7-cmd/problemSolving/tree/master/1162-as-far-from-land-as-possible) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Atul7-cmd/problemSolving/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Hash Table
