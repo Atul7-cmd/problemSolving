@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atul7-cmd/problemSolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Atul7-cmd/problemSolving/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Atul7-cmd/problemSolving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Atul7-cmd/problemSolving/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Atul7-cmd/problemSolving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Atul7-cmd/problemSolving/tree/master/0349-intersection-of-two-arrays) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Atul7-cmd/problemSolving/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Atul7-cmd/problemSolving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Atul7-cmd/problemSolving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Atul7-cmd/problemSolving/tree/master/1669-merge-in-between-linked-lists) |
 <!---LeetCode Topics End-->
