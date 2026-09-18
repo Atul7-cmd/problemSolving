@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Atul7-cmd/problemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/Atul7-cmd/problemSolving/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Atul7-cmd/problemSolving/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Atul7-cmd/problemSolving/tree/master/0115-distinct-subsequences) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Atul7-cmd/problemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Atul7-cmd/problemSolving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Atul7-cmd/problemSolving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Atul7-cmd/problemSolving/tree/master/0347-top-k-frequent-elements) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Atul7-cmd/problemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Atul7-cmd/problemSolving/tree/master/0039-combination-sum) |
 ## Trie
 |  |
